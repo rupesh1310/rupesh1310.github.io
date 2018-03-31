@@ -20,8 +20,6 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m A.Rupesh',
     'I design and code things on the web',
-    'In \short a Tech nerd.I was Born in India,in late 1996, I was fortunate enough to grow up with the rapid changes in technology. I got to witness the end of some technologies and the advent of other technologies. The first computer language I learned was HTML - back when MySpace was a thing and you could customize profiles by embedding HTML. This happened at the age of 12. After buffing up a bit on HTML in high school, my first year of college unfolded and Java was the second computer language I learned. Ever since then, I have considered myself devoted to computer science. ❤',
-    'My \hobbies include: Reading Books • Gaming • Designing • Coding.',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:a.rupesh66@gmail.com">a.rupesh66@gmail.com</a>',
     '<a target="_blank" href="https://github.com/rupesh1310">Github</a><br><a target="_blank" href="https://www.facebook.com/rupesh13visionary">facebook</a><br><a target="_blank" href="https://www.instagram.com/rupesh_1310/">Instagram/updating my work soon.</a>',
     getCurrentTime(),
