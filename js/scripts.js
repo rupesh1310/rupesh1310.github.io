@@ -21,7 +21,6 @@ window.onload = function() {
     'I\'m A.Rupesh',
     'I design and code things on the web',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:a.rupesh66@gmail.com">a.rupesh66@gmail.com</a>',
-    '<a target="_blank" href="https://github.com/rupesh1310">Github</a><br><a target="_blank" href="https://www.facebook.com/rupesh13visionary">facebook</a><br><a target="_blank" href="https://www.instagram.com/rupesh_1310/">Instagram/updating my work soon.</a>',
     getCurrentTime(),
     '👀 A.R.'
   ]
@@ -33,7 +32,6 @@ window.onload = function() {
   var pxToRem = function(px) {
     return px / getFontSize() + 'rem';
   }
-
   var createBubbleElements = function(message, position) {
     var bubbleEl = document.createElement('div');
     var messageEl = document.createElement('span');
